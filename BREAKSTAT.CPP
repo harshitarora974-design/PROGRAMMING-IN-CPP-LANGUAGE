@@ -1,6 +1,6 @@
-/*
+
 → TOPIC - BREAK STATEMENT 
-*/
+
 
 #include <iostream>
 using namespace std;
@@ -32,6 +32,9 @@ int main()
     return 0;
 }
 
-/*
- Print all prime numbers upto 100
-*/
+// ASSIGNMENTS
+
+→ 1. Print all prime numbers upto 100
+
+
+
