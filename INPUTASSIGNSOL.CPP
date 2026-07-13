@@ -1,10 +1,9 @@
-/*
-→ SOLUTIONS OF ASSIGNMENTS OF INPUTFROMUSER.CPP 
-*/
 
-//  1 .enter principle , rate and time print simple interest
-//     HINT -  Simple Interest Formula
-//                si=p*r*t/100
+→ SOLUTIONS OF ASSIGNMENTS OF INPUTFROMUSER.CPP 
+
+→ 1 .enter principle , rate and time print simple interest
+     HINT -  Simple Interest Formula
+                si=p*r*t/100
 
 
 #include<iostream>
@@ -26,7 +25,7 @@ int main()
 }
 
 
-// 2. enter marks of 5 subjects and print sum and percentage
+→ 2. enter marks of 5 subjects and print sum and percentage
 
 
 #include<iostream>
@@ -47,10 +46,10 @@ int main()
 }
 
 
-// 3. enter mrp of book give 10% dis and print net price
-// HINT -  Discount Calculation Example:
-//           dis=mrp*10/100
-//           net=mrp-dis
+→ 3. enter mrp of book give 10% dis and print net price
+ HINT -  Discount Calculation Example:
+           dis=mrp*10/100
+           net=mrp-dis
 
 
 #include<iostream>
@@ -70,7 +69,7 @@ int main()
 }
 
 
-// 4. enter 2 nos and print their value after interchange (using temp variable)
+→ 4. enter 2 nos and print their value after interchange (using temp variable)
 
 
 #include<iostream>
@@ -93,9 +92,9 @@ int main()
 }
 
 
-// 5. enter 2 nos and print their value after swap(without using temp)
-//    a=5 
-//    b=7 
+→ 5. enter 2 nos and print their value after swap(without using temp)
+    a=5 
+    b=7 
 
 
 #include<iostream>
@@ -116,3 +115,12 @@ int main()
     
     return 0 ;
 }
+
+
+
+
+
+
+
+
+
