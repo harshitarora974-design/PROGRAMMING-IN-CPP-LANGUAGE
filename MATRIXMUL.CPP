@@ -1,6 +1,5 @@
-/*
+
 → AIM - product of two matix
-*/
 
 #include <iostream>
 using namespace std;
@@ -52,3 +51,13 @@ int main()
 
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
