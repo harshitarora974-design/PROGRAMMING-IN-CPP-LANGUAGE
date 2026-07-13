@@ -1,6 +1,5 @@
-/*
+
 → TOPIC - STORAGE CLASSES
-*/
 
 #include <iostream>
 using namespace std;
@@ -26,4 +25,8 @@ void msg()
 
     x++;
 }
+
+
+
+
 
