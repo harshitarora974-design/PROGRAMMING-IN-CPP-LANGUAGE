@@ -1,6 +1,5 @@
-/*
+
 → TOPIC - CONTINUE STATEMENT 
-*/
 
 #include <iostream>
 using namespace std;
@@ -22,7 +21,7 @@ int main()
     return 0;
 }
 
-/*
+→ TABLE 
 i      for condition    if condition   print
 ---
 1         T               F  F          1
@@ -38,6 +37,12 @@ i      for condition    if condition   print
 11        F
 */
 
-/*
-print all possible combination of 1 2 3
-*/
+// ASSIGNMENTS
+
+→ 1. print all possible combination of 1 2 3
+
+
+
+
+
+
