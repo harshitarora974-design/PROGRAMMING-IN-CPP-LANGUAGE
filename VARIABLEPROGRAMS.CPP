@@ -1,10 +1,9 @@
-/*
+
 → AIM - programs like 
         1. addition 
         2. subtraction 
         3. multiplication 
         4. division
-*/
 
 #include<iostream>
 using namespace std;
@@ -27,4 +26,12 @@ int main()
     
     return 0;
 }
+
+
+
+
+
+
+
+
 
