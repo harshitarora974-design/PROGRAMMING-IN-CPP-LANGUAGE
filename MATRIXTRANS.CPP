@@ -1,6 +1,5 @@
-/*
+
 → AIM - transpose of matrix
-*/
 
 #include <iostream>
 using namespace std;
@@ -33,3 +32,9 @@ int main()
 
     return 0;
 }
+
+
+
+
+
+
