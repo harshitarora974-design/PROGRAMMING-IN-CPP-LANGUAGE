@@ -1,6 +1,5 @@
-/*
+
 → TOPIC - WHILE LOOP
-*/
 
 #include <iostream>
 using namespace std;
@@ -24,7 +23,16 @@ int main()
 
 // ASSIGNMENTS
 
-// 1. Sum of Digits     %
-// 2. Reverse of Digits
-// 3. Print a number to Word 123=> One Two Three
-// 4. enter a number and check is it arm strong or not
+→ 1. Sum of Digits %
+→ 2. Reverse of Digits
+→ 3. Print a number to Word 123=> One Two Three
+→ 4. enter a number and check is it arm strong or not
+
+
+
+
+
+
+
+
+
