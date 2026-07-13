@@ -1,8 +1,7 @@
-/*
-→ TOPIC - nested if else 
-*/
 
-// 1. to find the greatest number among three numbers using nested if else statement
+→ TOPIC - nested if else 
+
+→ 1. to find the greatest number among three numbers using nested if else statement
 
 #include<iostream>
 using namespace std ;
@@ -40,7 +39,7 @@ int main()
 }
 
 
-// 2. if age >= 18 or age <= 45 then print eligible for lic policy otherwise not eligible for lic policy
+→ 2. if age >= 18 or age <= 45 then print eligible for lic policy otherwise not eligible for lic policy
 
 
 #include<iostream>
@@ -69,3 +68,8 @@ int main()
       
     return 0;
 }
+
+
+
+
+
