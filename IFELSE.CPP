@@ -1,8 +1,7 @@
-/*
-→ TOPIC - if else  
-*/
 
-// 1. to compare two numbers and print the greater number
+→ TOPIC - if else  
+
+→ 1. to compare two numbers and print the greater number
 
 #include<iostream>
 using namespace std ;
@@ -24,13 +23,17 @@ int main()
 }
 
 
-/*
-                                 ASSIGNMENTS 
 
-2. enter mrp of book , give 10% discount if mrp > 1000 otherwise give 5% discount  after discount print net price 
+// ASSIGNMENTS 
 
-3. enter sale price and cost price of book print profit or loss
+→ 2. enter mrp of book , give 10% discount if mrp > 1000 otherwise give 5% discount  after discount print net price 
+→ 3. enter sale price and cost price of book print profit or loss
 
-                      SOLUTIONS ON " IFELSEASSIGNSOL.CPP "
+                               → SOLUTIONS ON " IFELSEASSIGNSOL.CPP "
                       
-*/
+
+
+
+
+
+
