@@ -1,7 +1,6 @@
-/*
+
 → TOPIC - Call By Value
           if any change in formal parameter it does not affect actual  paramater
-*/
 
 #include <iostream>
 using namespace std;
@@ -27,3 +26,4 @@ void fun(int x)   // x is the formal parameter
 {
     x = 100;
 }
+
