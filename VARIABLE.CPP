@@ -1,7 +1,6 @@
-/*
+
 → TOPIC - VARIABLES 
 → DEFINATION - a named memory location that stores a value
-*/
 
 #include<iostream>
 using namespace std;
@@ -18,3 +17,5 @@ int main()
 
     return 0;
 }
+
+
