@@ -1,6 +1,6 @@
-/*
+
 → TOPIC - ARRAY 
-*/
+
 
 #include <iostream>
 using namespace std;
@@ -28,9 +28,9 @@ int main()
     return 0;
 }
 
-/*
-enter 10 elements in array and print sum of its element.
-enter 10 elements in array and print it in reverse order
+// ASSIGNMENTS
+
+→ 1. enter 10 elements in array and print sum of its element.
+→ 2. enter 10 elements in array and print it in reverse order
 enter 10 element in array and print biggest element
 enter 10 elements in array and search an element
-*/
