@@ -1,4 +1,4 @@
-/*
+
 → TOPIC - OPERATORS 
 → DEFINATION - Symbols that perform operations on variables and values 
 → TYPES - 
@@ -7,11 +7,9 @@
          3. Logical Operators
          4. Assignment Operators
          5. Increment and Decrement Operators
-*/
 
 
-/*
-                 SOME IMP TERMS 
+                → SOME IMP TERMS 
            
            && table
         r1   r2  result
@@ -26,10 +24,9 @@
         1    0    1
         0    1    1
         0    0    0
-*/
 
 
-// use of increment operators x++ and ++x 
+→ use of increment operators x++ and ++x 
 
 #include <iostream>
 using namespace std;
@@ -47,3 +44,9 @@ int main()
 
     return 0;
 }
+
+
+
+
+
+
