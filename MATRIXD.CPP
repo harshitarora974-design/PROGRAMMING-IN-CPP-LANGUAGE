@@ -1,7 +1,5 @@
-/*
-→ AIM - left/right both diagonal elements of matrix
-*/
 
+→ AIM - left/right both diagonal elements of matrix
 
 #include <iostream>
 using namespace std;
@@ -37,3 +35,8 @@ int main()
 
     return 0;
 }
+
+
+
+
+
