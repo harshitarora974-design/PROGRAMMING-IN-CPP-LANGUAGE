@@ -1,9 +1,8 @@
-/*
+
 → AIM - to print  
                 *******
                 *hello*
                 *******
-*/
 
 #include<iostream>
 using namespace std;
