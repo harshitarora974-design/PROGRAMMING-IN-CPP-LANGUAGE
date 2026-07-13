@@ -1,7 +1,6 @@
-/*
+
 → TOPIC - FUNCTION
 → DEFINATION - Set of Instructions. Part of Program (Sub Program)
-*/
 
 #include <iostream>
 using namespace std;
@@ -46,3 +45,10 @@ void sum()
 
     cout << "Sum = " << r << endl;
 }
+
+
+
+
+
+
+
