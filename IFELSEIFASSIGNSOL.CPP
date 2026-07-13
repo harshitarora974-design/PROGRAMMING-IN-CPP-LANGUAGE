@@ -1,14 +1,12 @@
-/*
+
 → SOLUTIONS OF ASSIGNMENTS OF  IFELSEIF.CPP
-*/
 
-
-// 2. enter a digit and print it in word
-//       0 Zero
-//       1 One
-//       2 Two
-//       3 Three
-//         ....
+→ 2. enter a digit and print it in word
+       0 Zero
+       1 One
+       2 Two
+       3 Three
+         ....
 
 #include<iostream>
 using namespace std ; 
@@ -68,10 +66,10 @@ int main()
 }
 
 
-// 3. enter a month of a year print name of the month
-//       1 Jan
-//       2 Feb
-//        ....
+→ 3. enter a month of a year print name of the month
+       1 Jan
+       2 Feb
+        ....
 
 
 #include<iostream>
@@ -138,3 +136,15 @@ int main()
 
   return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
