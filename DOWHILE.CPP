@@ -1,6 +1,6 @@
-/*
+
 → TOPIC - DO WHILE LOOP
-*/
+
 
 #include <iostream>
 using namespace std;
@@ -18,7 +18,7 @@ int main()
 
         cout << "Sum = " << r << endl;
 
-        cout << "Enter 1 to continue and any other number to exit: ";
+        cout << "Enter 1 to continue and any other number to exit: ";→ 
         cin >> choice;
 
     } while (choice == 1);
@@ -26,11 +26,14 @@ int main()
     return 0;
 }
 
-/*
-Assignment :
 
-1. Sum
-2. Subtract
-3. Product
-4. Division
-*/
+// Assignment :
+
+→ 1. Sum
+→ 2. Subtract
+→ 3. Product
+→ 4. Division
+
+
+
+
