@@ -1,6 +1,5 @@
-/*
+
 → AIM - to do sum of two matrix
-*/
 
 #include <iostream>
 using namespace std;
@@ -45,3 +44,14 @@ int main()
 
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
