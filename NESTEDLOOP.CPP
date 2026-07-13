@@ -1,11 +1,10 @@
-/*
+
 → AIM - nested loop
 → DEFINATION - a loop inside another loop is called nested loop
-*/
 
-// 1. to print stars like : ***
-//                          ***
-//                          ***
+→ 1. to print stars like : ***
+                           ***
+                           ***
 
 #include <iostream>
 using namespace std;
@@ -25,3 +24,11 @@ int main()
 
     return 0;
 }
+
+
+
+
+
+
+
+
