@@ -1,11 +1,10 @@
-/*
+
 → AIM - programs like 
-1. addition 
-2. subtraction 
-3. multiplication 
-4. division 
+→ 1. addition 
+→ 2. subtraction 
+→ 3. multiplication 
+→ 4. division 
 by taking input from users 
-*/
 
 #include<iostream>
 using namespace std;
@@ -35,26 +34,28 @@ int main()
     return 0;
 }
 
-/*
-                                                       ASSIGNMENTS
+→ ASSIGNMENTS
 
- 1 .enter principle , rate and time print simple interest
+ → 1 .enter principle , rate and time print simple interest
  HINT -  Simple Interest Formula
            si=p*r*t/100
-
- 2. enter marks of 5 subjects and print sum and percentage
- 
- 3. enter mrp of book give 10% dis and print net price
+ → 2. enter marks of 5 subjects and print sum and percentage
+ → 3. enter mrp of book give 10% dis and print net price
  HINT -  Discount Calculation Example:
          dis=mrp*10/100
          net=mrp-dis
+ → 4. enter 2 nos and print their value after interchange (using temp variable)
+ → 5. enter 2 nos and print their value after swap(without using temp)
 
- 4. enter 2 nos and print their value after interchange (using temp variable)
- 
- 5. enter 2 nos and print their value after swap(without using temp)
-    a=5 =>7
-    b=7 =>5
 
-                                             SOLUTION ON " INPUTASSIGNSOL.CPP "
 
-*/ 
+
+
+
+
+
+
+
+
+
+
