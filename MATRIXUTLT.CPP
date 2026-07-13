@@ -1,6 +1,5 @@
-/*
+
 → AIM -  upper and lower both triangular elements along with diagonal elements of matrix
-*/
 
 #include <iostream>
 using namespace std;
@@ -37,3 +36,13 @@ int main()
 
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
