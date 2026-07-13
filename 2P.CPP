@@ -1,8 +1,8 @@
-/*
+
 → AIM - to print  
 hello                                      hello
 hello                                      hello
-*/
+
 
 #include<iostream>
 using namespace std;
