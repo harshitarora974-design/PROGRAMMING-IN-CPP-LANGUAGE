@@ -1,9 +1,7 @@
-/*
+
 → SOLUTIONS OF ASSIGNMENTS OF IF-ELSE STATEMENTS
-*/
 
-
-// 2. enter mrp of book , give 10% discount if mrp > 1000 otherwise give 5% discount  after discount print net price
+→ 2. enter mrp of book , give 10% discount if mrp > 1000 otherwise give 5% discount  after discount print net price
 
 
 #include<iostream>
@@ -25,7 +23,7 @@ int main()
 }
 
 
-// 3. enter sale price (sp) and cost price (cp) of book print profit or loss
+→ 3. enter sale price (sp) and cost price (cp) of book print profit or loss
 
 #include<iostream>
 using namespace std ;
@@ -42,3 +40,15 @@ int main()
     
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
